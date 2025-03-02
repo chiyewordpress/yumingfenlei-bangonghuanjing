@@ -1,5 +1,5 @@
 {
-    "rule-set": [
+    "rules": [
             "domain_suffix": [
               "xjportal.com",
               "ctc.com"
