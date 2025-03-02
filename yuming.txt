@@ -1,2 +1,2 @@
-*.xjportal.com
-*.ctc.com
+"*.xjportal.com"
+"*.ctc.com"
