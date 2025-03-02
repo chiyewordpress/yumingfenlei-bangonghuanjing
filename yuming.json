@@ -1,4 +1,9 @@
 {
-  "xjportal.com",
-  "ctc.com"
+    "rules": [
+            "domain_suffix": [
+              "xjportal.com",
+              "ctc.com"
+            ]
+        }
+    ]
 }
